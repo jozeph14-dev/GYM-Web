@@ -173,7 +173,7 @@ em {
 }
 .last-section-about-content{
   padding: 120px 0px;
-  background-image: url(cta-bg.jpg);
+  background-image: url(/assets/cta-bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -284,7 +284,7 @@ em {
 .bg-schedule{
   margin-top: 100px;
   padding: 120px 0px;
-  background-image: url(schedule-bg.jpg);
+  background-image: url(/assets/schedule-bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -366,7 +366,7 @@ padding-left: 10px;
 }
 .form-bg{
   padding: 120px 0px;
-  background-image: url(contact-bg.jpg);
+  background-image: url(/assets/contact-bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
